@@ -33,4 +33,33 @@ Resuts are:
 <class 'bool'>
 """
 
-# NOTE: no char type in python
+# NOTE: no char type in python str of length 1
+
+# NOTE: print() function has default new line take care of this
+print("hello")
+print("python")
+"""
+Resuts are: 
+hello
+python
+"""
+
+# NOTE: the third print is in new line not next to second bec the second print has by default at it's end a new line as if we say \n
+print("hello",end=" ")
+print("python")
+print("python")
+"""
+Resuts are: 
+hello python
+python
+"""
+
+# NOTE: if u put \n at the end a newline empty will be created bec of \n of the default print as if its two \n --> \n\n
+print("hello\n")
+print("python")
+"""
+Resuts are: 
+hello
+
+python
+"""
