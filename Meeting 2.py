@@ -15,7 +15,7 @@ print(comparing)
 print(type(var1))
 print(type(comparing))
 """
-Resuts are: 
+Results are: 
 0
 False
 <class 'int'>
@@ -28,7 +28,7 @@ False
 print(type("Hello My Dear Students"))
 print(type(True))
 """
-Resuts are: 
+Results are: 
 <class 'str'>
 <class 'bool'>
 """
@@ -39,7 +39,7 @@ Resuts are:
 print("hello")
 print("python")
 """
-Resuts are: 
+Results are: 
 hello
 python
 """
@@ -49,7 +49,7 @@ print("hello",end=" ")
 print("python")
 print("python")
 """
-Resuts are: 
+Results are: 
 hello python
 python
 """
@@ -58,7 +58,7 @@ python
 print("hello\n")
 print("python")
 """
-Resuts are: 
+Results are: 
 hello
 
 python
@@ -71,7 +71,7 @@ print("Hello!","How are you?")
 print("Hello!","How are you?",end=",")
 print("Hello")
 """
-Resuts are: 
+Results are: 
 Hello! How are you?
 Hello! How are you?,Hello
 """
@@ -80,13 +80,13 @@ Hello! How are you?,Hello
 x = ("apple","banana","cherry")
 print(x)
 """
-Resuts is: 
+Result is: 
 ('apple', 'banana', 'cherry')
 """
 
 # To check use type() function
 print(type(x))
 """
-Resuts is: 
+Result is: 
 <class 'tuple'>
 """
