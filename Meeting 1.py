@@ -6,6 +6,7 @@
 """this is 
 comment using 
 trible quotes"""
+
 # NOTE : when u use triple quotes u can split text in multiple lines single and double can't work without Parenthesis
 # Parenthesis can help with using single or double or triple quotes see the difference
 ('this is comment '
