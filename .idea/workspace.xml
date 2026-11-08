@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9762a885-de74-4053-9cb6-7e9ee9548539" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python-Spiral-Questions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Meeting 1.py" afterDir="false" />
+    <list default="true" id="9762a885-de74-4053-9cb6-7e9ee9548539" name="Changes" comment="Comments Topic">
+      <change afterPath="$PROJECT_DIR$/Meeting 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meeting 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Meeting 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "0Mariam-Salem0"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/0Mariam-Salem0/Python-Spiral-Questions.git",
+    "accountId": "682bea99-5810-4f66-98d1-238587996bf2"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -40,8 +48,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Meeting 1.executor": "Run",
+    "Python.Meeting 2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -60,6 +74,19 @@
       <option name="presentableId" value="Default" />
       <updated>1794110245768</updated>
     </task>
+    <task id="LOCAL-00001" summary="Comments Topic">
+      <option name="closed" value="true" />
+      <created>1794111218547</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1794111218547</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Comments Topic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comments Topic" />
   </component>
 </project>
