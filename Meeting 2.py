@@ -75,3 +75,11 @@ Resuts are:
 Hello! How are you?
 Hello! How are you?,Hello
 """
+
+# Take Care: output have parenthesis --> () and commas --> , and quotes --> ' ' bec its treated as a tuple
+x = ("apple","banana","cherry")
+print(x)
+"""
+Resuts is: 
+('apple', 'banana', 'cherry')
+"""
