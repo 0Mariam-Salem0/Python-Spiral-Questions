@@ -63,3 +63,15 @@ hello
 
 python
 """
+
+# NOTE: comma --> , here makes a default one space between (str)
+print("Hello!","How are you?")
+
+# Take Care: when using commas make sure it inside the print between two str not end or sep args if it's inside them it's treated as str comma not comma with default space
+print("Hello!","How are you?",end=",")
+print("Hello")
+"""
+Resuts are: 
+Hello! How are you?
+Hello! How are you?,Hello
+"""
