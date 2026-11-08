@@ -3,18 +3,32 @@
 # To create a var we use name considering the rules of naming then use single equal operator --> =
 # First the Declaration we name the variable then = to store a value and this is initialization and Assignment
 var1 = 0
+
 # NOTE : Difference between single = and double ==
-comparing = (var1==1)
+comparing = (var1 == 1)
+
 # To Know the result we use Function print()
 print(var1)
 print(comparing)
+
 # To know the data type of the result or value we use Function type()
 print(type(var1))
 print(type(comparing))
 """
-Resuts are : 
+Resuts are: 
 0
 False
 <class 'int'>
+<class 'bool'>
+"""
+
+# Data Types --> str , int , float , boolean
+# Take care strings in python class type is str not String
+# Take care booleans in python class type is bool not boolean
+print(type("Hello My Dear Students"))
+print(type(True))
+"""
+Resuts are: 
+<class 'str'>
 <class 'bool'>
 """
