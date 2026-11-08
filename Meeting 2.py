@@ -83,3 +83,10 @@ print(x)
 Resuts is: 
 ('apple', 'banana', 'cherry')
 """
+
+# To check use type() function
+print(type(x))
+"""
+Resuts is: 
+<class 'tuple'>
+"""
