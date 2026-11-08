@@ -32,3 +32,5 @@ Resuts are:
 <class 'str'>
 <class 'bool'>
 """
+
+# NOTE: no char type in python
